@@ -1,11 +1,4 @@
 
-# 项目前端页面展示
-<div style="display: flex; gap: 10px;">
-  <img src="https://free.picui.cn/free/2026/03/29/69c8db2c32d74.png" width="800" />
-  <img src="https://free.picui.cn/free/2026/03/29/69c8db2ead009.png" width="800" />
-  <img src="https://free.picui.cn/free/2026/03/29/69c8db2b93e32.png" width="800" />
-</div>
-
 # 智汇流 - 高并发知识分享与问答平台
 后端 & 前端开发
 - **后端地址**：https://github.com/blade110/intelligent-flow-be
